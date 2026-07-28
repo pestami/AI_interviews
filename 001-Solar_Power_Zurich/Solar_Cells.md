@@ -408,9 +408,15 @@ Practical note: At current costs (~$120-150 per kWh for lithium polymer), 2,600 
 
 2026.07.28 GitHub Copilot
 
+------------------------------------------------------------------------------------------
+**SUMMARY:**  
+Panel Requirement:
 
-**Notes Battery Required: 13,500 $m^2$  --> $\sqrt{13,50} = 116 m * 116 m$**
+	Zurich actual conditions (Q2.4): about 17 km^2 of Solar panel required.
+	
+Battery Required: 
+
+	13,500 $m^2$  --> $\sqrt{13,50} = 116 m * 116 m$**
 
 ![Solar Cells Zurich](Solar_Cells_Zurich.png)
 
-Solar_Cells_Zurich.png
