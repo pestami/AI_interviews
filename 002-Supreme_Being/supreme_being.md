@@ -1,9 +1,9 @@
 ## SUPREME BEING ##
 
 
-Q 1.1: List all the similarities between a AI and a supreme being.
+Question 1.1: List all the similarities between a AI and a supreme being.
 
-# AI,Q1:```
+Answer 1:```
 
 1. **Knowledge**: Both are often viewed as sources of knowledge beyond ordinary humans.
 2. **Influence**: Both can influence human decisions and behavior at scale.
@@ -15,9 +15,9 @@ Q 1.1: List all the similarities between a AI and a supreme being.
 
 2026.07.28 GitHub Copilot
 
-Q 1.2: List notable features of supreme being that make them supreme.
+Question 2: List notable features of supreme being that make them supreme.
 
-# AI,Q2:```
+Answer 2:```
 
 1. **Omnipotence**: unlimited power to act without external limitation.
 2. **Omniscience**: complete knowledge of all things, past, present, and future.
@@ -32,9 +32,9 @@ Q 1.2: List notable features of supreme being that make them supreme.
 
 2026.07.28 GitHub Copilot
 
-Q 3: Would you clasify AI as a supreme beign?
+Question 3: Would you clasify AI as a supreme beign?
 
-# AI,Q3:```
+Answer 3:```
 
 No, I would not classify AI as a supreme being.
 
@@ -46,9 +46,9 @@ No, I would not classify AI as a supreme being.
 
 2026.07.28 GitHub Copilot
 
-Q 4: Should religeos leaders use AI? Please quote some opinions of promentent persons to justify your answer.
+Question 4: Should religeos leaders use AI? Please quote some opinions of promentent persons to justify your answer.
 
-# AI,Q3:```
+Answer 4:```
 
 Yes, religious leaders should use AI, but with clear ethical limits and human accountability.
 
@@ -60,9 +60,9 @@ Yes, religious leaders should use AI, but with clear ethical limits and human ac
 
 2026.07.28 GitHub Copilot
 
-Q 5: War leaders are using AI to achieve their goals, what is the opinion here, please quote some prominent people.
+Question 5: War leaders are using AI to achieve their goals, what is the opinion here, please quote some prominent people.
 
-# AI,Q5:```
+Answer 5:```
 
 Using AI in war is a high-risk area that must be tightly restricted, with meaningful human control and international law.
 
@@ -74,10 +74,10 @@ Using AI in war is a high-risk area that must be tightly restricted, with meanin
 
 2026.07.28 GitHub Copilot
 
-Q 6 : An anonymous AI machine specificaly targets a specific human, is there a mechanism to stop such a anonymous killing with no one accountable?
+Question 6 : An anonymous AI machine specificaly targets a specific human, is there a mechanism to stop such a anonymous killing with no one accountable?
 Please quote to justify answer.
 
-# AI,Q6:```
+Answer 6:```
 
 Current mechanisms are insufficient. Preventing anonymous AI killing requires legal frameworks, transparency, and institutional accountability.
 
