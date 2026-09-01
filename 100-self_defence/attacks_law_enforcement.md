@@ -66,3 +66,25 @@ The reported percentages appear to be based on the **412 suspects who used at le
 | Bite/Scratch | 39 | 9.5% |
 | Control Hold | 21 | 5.1% |
 |
+
+# Major Themes
+
+1. **Most assaults involve personal weapons**
+   - Hands, feet, elbows, and similar body-based attacks accounted for **83%** of assaults on law enforcement officers.
+   - Firearms and knives together represented only **7%** of all assaults.
+
+2. **Most arrests involve no resistance**
+   - In **95%** of arrests, suspects used **no weaponless tactics at all**.
+   - Resistance is the exception rather than the norm.
+
+3. **When resistance occurs, it is primarily grappling-based**
+   - Wrestling, pushing, grabbing, and arm-twisting constituted the majority of resistance tactics.
+   - These behaviors involve controlling distance and physical leverage rather than striking.
+
+4. **Striking tactics are relatively uncommon**
+   - Kicks and hits represented a much smaller proportion of observed behaviors than wrestling-type actions.
+   - Even among resisting suspects, grappling behaviors were more prevalent than punches or kicks.
+
+# Bottom-Line Conclusion
+
+Across both datasets, the typical officer-suspect physical encounter is best characterized as a **short-range struggle involving wrestling, grabbing, pushing, and other control-related movements**. Weapon-related assaults and striking attacks occur, but they represent a much smaller share of encounters than unarmed physical resistance and grappling behaviors.
