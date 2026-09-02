@@ -107,7 +107,7 @@ So in simple terms:
 ### AI,Q3 ANSWER :
 ``` 
 Using ballpark energy densities:
-- Petrol: about 8–10 kWh per litre
+- Petrol: about 8–10 kWh per litre (liter of water at 1 dm2)
 - Li-ion battery pack: about 0.15–0.25 kWh per litre
 
 So for 100 kWh:
