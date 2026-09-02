@@ -36,7 +36,9 @@
 | Lithium battery (EV pack) | ~180 Wh/kg | ~1.8 kWh | ~1.8 kWh | Typical modern Li-ion pack |
 | Lead battery | ~35 Wh/kg | ~0.35 kWh | ~0.35 kWh | Typical lead-acid pack |
 
-Approximate assumptions: energy density values are ballpark and vary by quality, moisture, and battery chemistry. Sugar is included as a dry carbohydrate with a similar energy content to starch and protein, while batteries store far less energy per kilogram.
+Approximate assumptions: energy density values are ballpark and vary by quality, moisture, and battery chemistry. 
+Sugar is included as a dry carbohydrate with a similar energy content to starch and protein, 
+while batteries store far less energy per kilogram.
 
 ``` 
 ASCII comparison (rough scale; each block ≈ 10 kWh):
@@ -68,7 +70,8 @@ This makes the key point clear: a 10 kg fuel load stores roughly 100x more usabl
 
 ### AI,Q2 ANSWER :
 ``` 
-A 100 kWh energy store is roughly equivalent to lifting about 367 tonnes of water up 100 m. For a 1 m deep reservoir, that means a square base of about 19 m × 19 m.
+A 100 kWh energy store is roughly equivalent to lifting about 367 tonnes of water up 100 m.
+For a 1 m deep reservoir, that means a square base of about 19 m × 19 m.
 
 ASCII sketch: 100kW
 
@@ -114,9 +117,11 @@ So for 100 kWh:
 - Petrol needs roughly 10–12 litres
 - A lithium battery pack needs roughly 400–700 litres
 
-That means the same amount of stored energy occupies far more space in a battery than in petrol. In practical terms, a 100 kWh petrol tank is only a small fuel tank, while a 100 kWh EV battery is a large, heavy module taking hundreds of litres of volume.
-
-This is why batteries are much bulkier and heavier than liquid fuels for the same energy content, even though they are cleaner and easier to recharge.
+That means the same amount of stored energy occupies far more space in a battery than in petrol.
+In practical terms, a 100 kWh petrol tank is only a small fuel tank,
+while a 100 kWh EV battery is a large, heavy module taking hundreds of litres of volume.
+This is why batteries are much bulkier and heavier than liquid fuels for the same energy content,
+even though they are cleaner and easier to recharge.
 ``` 
 
 2026.09.01 GitHub Copilot
@@ -135,7 +140,8 @@ A rough comparison is:
 - Battery-electric vehicle (EV): about 80–90% of the battery energy becomes useful mechanical energy at the wheels.
   - 100 kWh battery ≈ 80–90 kWh of wheel power
 
-If charging losses are included, an EV may deliver closer to 70–80 kWh of usable wheel energy from 100 kWh taken from the grid, but it is still far more efficient than petrol.
+If charging losses are included, an EV may deliver closer to 70–80 kWh of usable wheel energy from 100 kWh taken from the grid,
+but it is still far more efficient than petrol.
 
 So, for the same stored energy:
 - petrol car wastes most of its energy as heat
@@ -149,7 +155,8 @@ In simple terms, a 100 kWh battery can deliver roughly 3–4 times more useful m
 | Battery EV | 80–90% | ~80–90 kWh | Motor/inverter/auxiliary losses |
 | EV with charging losses | 70–80% | ~70–80 kWh | Charger + battery + drivetrain losses |
 
-In simple terms, for the same 100 kWh of stored energy, an EV delivers roughly **3–4 times more useful mechanical energy** than a petrol car.
+In simple terms, for the same 100 kWh of stored energy, 
+an EV delivers roughly **3–4 times more useful mechanical energy** than a petrol car.
 
 
 
@@ -167,7 +174,9 @@ In simple terms, for the same 100 kWh of stored energy, an EV delivers roughly *
 | Lithium battery (EV pack) | ~1.8 kWh | ~80–90% | ~1.4–1.6 kWh |
 
 ``` 
-Ballpark summary: even though 10 kg of petrol stores far more energy than 10 kg of lithium battery, the battery converts a much larger share of that energy into wheel power. So the EV still wins by a wide margin in useful mechanical energy per kilogram of stored energy.
+Ballpark summary: even though 10 kg of petrol stores far more energy than 10 kg of lithium battery,
+the battery converts a much larger share of that energy into wheel power.
+So the EV still wins by a wide margin in useful mechanical energy per kilogram of stored energy.
 ``` 
 
 2026.09.01 GitHub Copilot
@@ -192,7 +201,9 @@ So the answer is roughly:
 - 80–120 kWh of mechanical energy to the wheels
 - with the exact value depending on aerodynamics, tire losses, speed, traffic, and whether the car is very efficient or heavier
 
-This is the energy needed to overcome rolling resistance and aerodynamic drag on a flat road. It does not include engine or drivetrain losses from the fuel side, so a petrol car would need more stored fuel energy than this to deliver the same wheel energy.
+This is the energy needed to overcome rolling resistance and aerodynamic drag on a flat road.
+It does not include engine or drivetrain losses from the fuel side,
+so a petrol car would need more stored fuel energy than this to deliver the same wheel energy.
 ``` 
 
 2026.09.01 GitHub Copilot
@@ -208,7 +219,12 @@ This is the energy needed to overcome rolling resistance and aerodynamic drag on
 | Battery energy required (EV) | ~90–140 kWh |
 | Battery mass required | ~450–700 kg |
 
-Ballpark logic: to move a 1000 kg car 500 km on flat ground at 120 km/h, it needs roughly 80–120 kWh of useful mechanical energy at the wheels. A petrol engine turns only about 25–30% of fuel energy into wheel power, so it needs about 270–480 kWh of fuel energy, which is roughly 22–40 kg of petrol. An EV is much more efficient, needing only about 90–140 kWh from the battery, which corresponds to roughly 450–700 kg of a typical lithium pack. So the battery is far heavier for the same trip, even though it is much more efficient.
+Ballpark logic: to move a 1000 kg car 500 km on flat ground at 120 km/h, 
+it needs roughly 80–120 kWh of useful mechanical energy at the wheels. 
+A petrol engine turns only about 25–30% of fuel energy into wheel power, so it needs about 270–480 kWh of fuel energy, 
+which is roughly 22–40 kg of petrol. An EV is much more efficient, needing only about 90–140 kWh from the battery, 
+which corresponds to roughly 450–700 kg of a typical lithium pack. So the battery is far heavier for the same trip, 
+even though it is much more efficient.
 
 ##  Q8. For 500 kWh of electricity, how many grams of nuclear fuel waste are generated?
 
@@ -221,7 +237,12 @@ Ballpark logic: to move a 1000 kg car 500 km on flat ground at 120 km/h, it need
 | Uranium burned for 500 kWh electric | ~0.000066 kg |
 | Nuclear fuel mass equivalent | ~0.066 g |
 
-Ballpark logic: a typical kilogram of U-235 releases on the order of 22.8 million kWh of thermal energy. At 33% conversion efficiency, 500 kWh of electricity needs roughly 1500 kWh of heat, which corresponds to only about 0.066 g of uranium fuel burned. In real reactor operation, the spent fuel and radioactive waste mass is a little higher because of fission products and structural materials, but the actual fuel consumed for 500 kWh is still only a tiny fraction of a gram to a few tenths of a gram.
+Ballpark logic: a typical kilogram of U-235 releases on the order of 22.8 million kWh of thermal energy. 
+At 33% conversion efficiency, 500 kWh of electricity needs roughly 1500 kWh of heat, 
+which corresponds to only about 0.066 g of uranium fuel burned. In real reactor operation, 
+the spent fuel and radioactive waste mass is a little higher because of fission products 
+and structural materials, but the actual fuel consumed for 500 kWh is still only a tiny fraction 
+of a gram to a few tenths of a gram.
 
 2026.09.01 GitHub Copilot
 
@@ -236,7 +257,9 @@ That is about the mass of:
 - about one grain of table salt
 - or roughly the mass of a few grains of fine powder
 
-For comparison, a normal grain of table salt is about 60 mg, which is 1000 times heavier than 66 micrograms. So the amount of uranium fuel used for 500 kWh is extremely tiny — smaller than a visible grain of salt, but enough to release a large amount of energy because nuclear fuel is so energy-dense.
+For comparison, a normal grain of table salt is about 60 mg, which is 1000 times heavier than 66 micrograms.
+So the amount of uranium fuel used for 500 kWh is extremely tiny — smaller than a visible grain of salt,
+but enough to release a large amount of energy because nuclear fuel is so energy-dense.
 ``` 
 
 2026.09.01 GitHub Copilot
@@ -248,7 +271,8 @@ For comparison, a normal grain of table salt is about 60 mg, which is 1000 times
 A rough rule of thumb is:
 
 - For the fuel actually consumed, about 0.13 g of uranium-235 is enough to produce 1000 kWh of electricity at a typical reactor efficiency.
-- For the total radioactive waste stream from a real power plant, the number is much larger because it includes spent fuel, cladding, filters, and other contaminated materials.
+- For the total radioactive waste stream from a real power plant, the number is much larger because it includes spent fuel,
+ cladding, filters, and other contaminated materials.
 
 So the practical answer is:
 - fuel burned: roughly 0.13 g per 1000 kWh
