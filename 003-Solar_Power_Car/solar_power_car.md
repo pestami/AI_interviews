@@ -278,7 +278,8 @@ So the practical answer is:
 - fuel burned: roughly 0.13 g per 1000 kWh
 - total plant waste: usually measured in kilograms to tonnes per reactor-year, not grams per kWh
 
-In other words, the mass of actual fuel burned per kWh is tiny, but the total radioactive waste handled by a real nuclear plant is not tiny because the plant processes large quantities of material over time.
+In other words, the mass of actual fuel burned per kWh is tiny, but the total radioactive waste handled
+by a real nuclear plant is not tiny because the plant processes large quantities of material over time.
 ``` 
 
 2026.09.01 GitHub Copilot
