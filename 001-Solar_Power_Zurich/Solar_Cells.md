@@ -418,5 +418,5 @@ Battery Required:
 
 	13,500 $m^2$  --> $\sqrt{13,50} = 116 m * 116 m$**
 
-![Solar Cells Zurich](Solar_Cells_Zurich.png)
+![Solar Cells Zurich](images/Solar_Cells_Zurich.png)
 
