@@ -105,7 +105,7 @@ So in simple terms:
 
 2026.09.01 GitHub Copilot
 
-| 100 m Height | Water Reservoir | 
+| 100 m Height | Water Reservoir 50 x 12.5 x 1 m | 
 |---------|--------|
 | ![photo](images/building100m.png) | ![photo](images/pool_25x12m.jpg) |
 
