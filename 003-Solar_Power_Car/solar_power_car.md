@@ -225,67 +225,12 @@ so a petrol car would need more stored fuel energy than this to deliver the same
 | Battery energy required (EV) | ~90–140 kWh |
 | Battery mass required | ~450–700 kg |
 
+``` 
 Ballpark logic: to move a 1000 kg car 500 km on flat ground at 120 km/h, 
 it needs roughly 80–120 kWh of useful mechanical energy at the wheels. 
 A petrol engine turns only about 25–30% of fuel energy into wheel power, so it needs about 270–480 kWh of fuel energy, 
 which is roughly 22–40 kg of petrol. An EV is much more efficient, needing only about 90–140 kWh from the battery, 
 which corresponds to roughly 450–700 kg of a typical lithium pack. So the battery is far heavier for the same trip, 
 even though it is much more efficient.
-
-##  Q8. For 500 kWh of electricity, how many grams of nuclear fuel waste are generated?
-
-### AI,Q8 ANSWER :
-| Item | Ballpark value |
-|---|---:|
-| Electricity needed | 500 kWh |
-| Thermal energy needed at 33% efficiency | ~1500 kWh |
-| Uranium-235 energy per kg | ~22,800,000 kWh |
-| Uranium burned for 500 kWh electric | ~0.000066 kg |
-| Nuclear fuel mass equivalent | ~0.066 g |
-
-Ballpark logic: a typical kilogram of U-235 releases on the order of 22.8 million kWh of thermal energy. 
-At 33% conversion efficiency, 500 kWh of electricity needs roughly 1500 kWh of heat, 
-which corresponds to only about 0.066 g of uranium fuel burned. In real reactor operation, 
-the spent fuel and radioactive waste mass is a little higher because of fission products 
-and structural materials, but the actual fuel consumed for 500 kWh is still only a tiny fraction 
-of a gram to a few tenths of a gram.
-
-2026.09.01 GitHub Copilot
-
-##  Q9. How large is the 0.000066g , give easy to imagine analogy
-
-### AI,Q9 ANSWER :
-``` 
-0.000066 g is only 66 micrograms.
-
-That is about the mass of:
-- a tiny speck of dust
-- about one grain of table salt
-- or roughly the mass of a few grains of fine powder
-
-For comparison, a normal grain of table salt is about 60 mg, which is 1000 times heavier than 66 micrograms.
-So the amount of uranium fuel used for 500 kWh is extremely tiny — smaller than a visible grain of salt,
-but enough to release a large amount of energy because nuclear fuel is so energy-dense.
 ``` 
 
-2026.09.01 GitHub Copilot
-
-##  Q10. Is ther a rule of thumb that states 1000 kwh is so many grams of radioactive waste as in a real nuclear power plant including all process waste.
-
-### AI,Q10 ANSWER :
-``` 
-A rough rule of thumb is:
-
-- For the fuel actually consumed, about 0.13 g of uranium-235 is enough to produce 1000 kWh of electricity at a typical reactor efficiency.
-- For the total radioactive waste stream from a real power plant, the number is much larger because it includes spent fuel,
- cladding, filters, and other contaminated materials.
-
-So the practical answer is:
-- fuel burned: roughly 0.13 g per 1000 kWh
-- total plant waste: usually measured in kilograms to tonnes per reactor-year, not grams per kWh
-
-In other words, the mass of actual fuel burned per kWh is tiny, but the total radioactive waste handled
-by a real nuclear plant is not tiny because the plant processes large quantities of material over time.
-``` 
-
-2026.09.01 GitHub Copilot
