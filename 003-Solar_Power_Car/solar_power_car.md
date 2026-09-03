@@ -60,7 +60,9 @@ This makes the key point clear: a 10 kg fuel load stores roughly 100x more usabl
 
 2026.09.01 GitHub Copilot
 
-
+| 10 kg 42kWh | 10 l 120 kWh | 1 kg 0.1 kWh 20x17x13 mm | Ruler 10 cm |
+|---------|--------|--------|--------|
+| [![photo](images/holtzbrikkets.jpg) | [![photo](images/10l_canister.jpg) | [![photo](images/LIBATTERy_99Wh_1,25_kg_17x20x13mm.jpg) |[![photo](images/ruler.jpg) |
 
 # WATER RESEVOUR
 
@@ -102,6 +104,10 @@ So in simple terms:
 ``` 
 
 2026.09.01 GitHub Copilot
+
+| 100 m Height | Water Reservoir | 
+|---------|--------|
+| [![photo](images/building100m.png) | [![photo](images/pool_25x12m.jpg) |
 
 # ENERGY DENSITY ($dm^2$)
 
