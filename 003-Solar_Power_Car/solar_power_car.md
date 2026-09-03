@@ -3,7 +3,7 @@
 # Index
 - [ENERGY DENSITY (kg)](#energy-density-kg)
 - [WATER RESEVOUR](#water-resevour)
-- [ENERGY DENSITY ($dm^2$)](#energy-density-dm2)
+- [ENERGY DENSITY ($\dm^2$)](#energy-density-dm2)
 - [ENERGY CONVERSION EFICIENCY](#energy-conversion-eficiency)
 - [MECHANICAL ENERGY DENSITY](#q5-redo-table-in-q1-using-mechanical-energy-to-wheels)
 
