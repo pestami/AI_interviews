@@ -49,4 +49,4 @@ Zurich requires **~30–40% more area** than California deserts for equivalent p
 *Summary from Solar_Cells.md analysis*
 *2026.07.28 GitHub Copilot*
 
-![Solar Cells Zurich](Solar_Cells_Zurich.png)
+![Solar Cells Zurich](images/Solar_Cells_Zurich.png)
