@@ -1,8 +1,8 @@
-# Law Enforcement Assaults and Resistance Tactics Analysis
+| REFERENCE |75 Down Blocks , Richard Clark |
+|---------|---------|
+| Sourced from: | ![photo](images/75_Down_Blocks_Richard_Clark.jpg) |
 
-| 75 Down Blocks , Richard Clark |
-|---------|
-| [![photo](images/75_Down_Blocks_Richard_Clark.jpg) |
+# Law Enforcement Assaults and Resistance Tactics Analysis
 
 ## 1. FBI Law Enforcement Assaults by Weapon (1978–2000)
 
